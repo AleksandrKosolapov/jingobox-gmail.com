@@ -1,2 +1,1 @@
-# jingobox-gmail.com
-OneTwoTrip
+# OneTwoTrip
